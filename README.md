@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👨‍💻 Awesome Compositional Visual Reasoning Survey</h1>
+  <h1>👨‍💻 Awesome Compositional Visual Reasoning</h1>
 </div>
 
 
@@ -8,17 +8,20 @@
   📚 <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank"><strong>View the survey paper</strong></a>
 </p>
 
-
-
-<p align="center">
-  <a href="https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey">
-    <img src="https://img.shields.io/static/v1?label=&message=Compositional+Visual+Reasoning+Survey&color=black&logo=awesomelists" alt="Compositional-Visual-Reasoning-Survey"/>
-  </a>
-  <img src="https://img.shields.io/github/last-commit/pokerme7777/Compositional-Visual-Reasoning-Survey?color=green" alt="Last Commit"/>
-  <a href="https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey">
-    <img src="https://img.shields.io/github/stars/pokerme7777/Compositional-Visual-Reasoning-Survey?style=social" alt="GitHub Stars"/>
-  </a>
-</p>
+<div align="center">
+    <a href="https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey/network/members">
+        <img src="https://img.shields.io/github/forks/pokerme7777/Compositional-Visual-Reasoning-Survey?style=square">
+    </a>
+    <a href="https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey/stargazers">
+        <img src="https://img.shields.io/github/stars/pokerme7777/Compositional-Visual-Reasoning-Survey?style=square">
+    </a>
+    <a href="https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey/issues">
+        <img src="https://img.shields.io/github/issues/pokerme7777/Compositional-Visual-Reasoning-Survey?style=square">
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/citation-0-97ca00">
+    </a>
+</div>
 
 <p align="center">
   <img src="pic/relationship.png" alt="Relationship Diagram" width="700"/>
