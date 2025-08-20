@@ -9,14 +9,14 @@
 </p>
 
 <div align="center">
-    <a href="https://github.com/pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey/network/members">
-        <img src="https://img.shields.io/github/forks/pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey?style=square">
+    <a href="https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey/network/members">
+        <img src="https://img.shields.io/github/forks/pokerme7777/Compositional-Visual-Reasoning-Survey?style=square">
     </a>
-    <a href="https://github.com/pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey/stargazers">
-        <img src="https://img.shields.io/github/stars/pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey?style=square">
+    <a href="https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey/stargazers">
+        <img src="https://img.shields.io/github/stars/pokerme7777/Compositional-Visual-Reasoning-Survey?style=square">
     </a>
-    <a href="https://github.com/pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey/issues">
-        <img src="https://img.shields.io/github/issues/pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey?style=square">
+    <a href="https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey/issues">
+        <img src="https://img.shields.io/github/issues/pokerme7777/Compositional-Visual-Reasoning-Survey?style=square">
     </a>
     <a href="">
         <img src="https://img.shields.io/badge/citation-0-97ca00">
@@ -48,11 +48,11 @@
 
 ## 🌟Star History
 
-<a href="https://star-history.com/#pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey&Timeline">
+<a href="https://star-history.com/#pokerme7777/Compositional-Visual-Reasoning-Survey&Timeline">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey&type=Timeline" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=pokerme7777/Compositional-Visual-Reasoning-Survey&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=pokerme7777/Compositional-Visual-Reasoning-Survey&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=pokerme7777/Compositional-Visual-Reasoning-Survey&type=Timeline" />
   </picture>
 </a>
 
@@ -60,5 +60,5 @@
 
 ### 📬 Contribute to This List
 
-If you have related papers that should be included in this survey, feel free to [open an issue](https://github.com/pokerme7777/Awesome-Compositional-Visual-Reasoning-Survey/issues). Contributions are welcome!
+If you have related papers that should be included in this survey, feel free to [open an issue](https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey/issues). Contributions are welcome!
 
