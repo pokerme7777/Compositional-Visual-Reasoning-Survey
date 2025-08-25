@@ -29,7 +29,7 @@
 
 
 <p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+    <img src="https://i.imgur.com/waxVImv.png" alt="sliding Bar">
 </p>
 
 
@@ -40,15 +40,20 @@
   <img src="pic/timeline.png" alt="Timeline Diagram"/>
 </p>
 
+---
+
 ### Key Shift from Monolithic Reasoning to Compositional Reasoning
 <p align="center">
   <img src="pic/relationship.png" alt="Relationship Diagram"/>
 </p>
 
+---
+
 ## [Stage I: Prompt-Enhanced Language-Centric](docs/stage1_prompt_language.md)
 <p align="center">
   <img src="pic/stage1.png" alt="Stage I Diagram"/>
 </p>
+
 
 ### 🔹 Category 1: Task Decomposition Followed by Visual Perception
 
@@ -96,6 +101,8 @@
 - **Finedefics**  
   Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models  
   [ICLR 2025](https://openreview.net/forum?id=p3NKpom1VL) / [Code](https://github.com/PKU-ICST-MIPL/Finedefics_ICLR2025)
+
+---
 
 ## [Stage II: Tool-Enhanced Large Language Models](docs/stage2_tool_llm.md)
 <p align="center">
@@ -178,6 +185,8 @@
   What’s Left? Concept Grounding with Logic-Enhanced Foundation Models  
   [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/79fea214543ba263952ac3f4e5452b14-Paper-Conference.pdf) / [Code](https://github.com/joyhsu0504/LEFT/)
 
+---
+
 ## [Stage III: Tool-Enhanced Vision Language Models](docs/stage3_tool_vlm.md)
 
 - **Image-of-Thought**  
@@ -231,6 +240,8 @@
 - **CoT-VLA**  
   CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models  
   [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.pdf) / [Website](https://cot-vla.github.io/)
+
+---
 
 ## [Stage IV: Chain-of-Thought Vision Language Models](docs/stage4_cot_vlm.md)
 <p align="center">
@@ -297,6 +308,7 @@
   LATTE: Learning to Think with Vision Specialists  
   [EMNLP 2025](https://arxiv.org/pdf/2412.05479) / [Code](https://github.com/SalesforceAIResearch/LATTE/)
 
+---
 
 ## [Stage V: Unified Agentic Vision Language Models](docs/stage5_agentic_vlm.md)
 <p align="center">
