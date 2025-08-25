@@ -253,6 +253,9 @@ Tool-enhanced VLMs extend tool-enhanced LLMs by replacing the language model wit
 ---
 
 ## [Stage IV: Chain-of-Thought Vision Language Models](docs/stage4_cot_vlm.md)
+These models carry out multi-step reasoning in a single forward pass without external tools, explicitly exposing intermediate reasoning and perceptual states before the final answer.
+
+---
 <p align="center">
   <img src="pic/deepthink.png" alt="Stage IV Diagram"/>
 </p>
