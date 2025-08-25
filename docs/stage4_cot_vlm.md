@@ -1,5 +1,6 @@
 # Stage IV: Chain-of-Thought Vision Language Models
 
+These models carry out multi-step reasoning in a single forward pass without external tools, explicitly exposing intermediate reasoning and perceptual states before the final answer.
 
 ---
 ### 📄 [LLaVA-CoT](https://arxiv.org/pdf/2411.10440)

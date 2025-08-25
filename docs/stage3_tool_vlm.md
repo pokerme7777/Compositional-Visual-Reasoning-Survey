@@ -1,5 +1,6 @@
 # Stage III: Tool-Enhanced Vision Language Models
 
+Tool-enhanced VLMs extend tool-enhanced LLMs by replacing the language model with a vision-language model, enabling direct visual interaction. Unlike tool-enhanced LLMs, planners here take raw images as input, reducing information loss and improving efficiency.
 
 ---
 
