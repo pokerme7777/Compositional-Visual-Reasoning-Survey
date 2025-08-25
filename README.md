@@ -302,6 +302,7 @@
 <p align="center">
   <img src="pic/agentic_vlm.png" alt="Stage V Diagram"/>
 </p>
+
 - **V\***  
   V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs  
   [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_V_Guided_Visual_Search_as_a_Core_Mechanism_in_Multimodal_CVPR_2024_paper.html) / [Code](https://github.com/penghao-wu/vstar)
