@@ -1,5 +1,5 @@
 # Stage V: Unified Agentic Vision Language Models
-
+These models incorporate higher-order cognitive mechanisms such as planning, memory, operation, imagination, textual feedback and visual evidence.
 ---
 ### 📄 [V*](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_V_Guided_Visual_Search_as_a_Core_Mechanism_in_Multimodal_CVPR_2024_paper.html)
 - **Title:** *V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs*  

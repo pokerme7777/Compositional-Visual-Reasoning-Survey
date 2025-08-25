@@ -50,6 +50,9 @@
 ---
 
 ## [Stage I: Prompt-Enhanced Language-Centric](docs/stage1_prompt_language.md)
+This stage focuses on methods where LLMs act as the central reasoning engine, guided by textual prompts. Visual inputs are often pre-processed or summarized before being fed into the LLM.
+
+
 <p align="center">
   <img src="pic/stage1.png" alt="Stage I Diagram"/>
 </p>
@@ -105,6 +108,9 @@
 ---
 
 ## [Stage II: Tool-Enhanced Large Language Models](docs/stage2_tool_llm.md)
+
+This paradigm typically involves two key components: generating actions from the current state, and transitioning between states by executing those actions.
+
 <p align="center">
   <img src="pic/tool_enhanced.png" alt="Stage II/III Diagram"/>
 </p>
@@ -188,6 +194,9 @@
 ---
 
 ## [Stage III: Tool-Enhanced Vision Language Models](docs/stage3_tool_vlm.md)
+Tool-enhanced VLMs extend tool-enhanced LLMs by replacing the language model with a vision-language model, enabling direct visual interaction. Unlike tool-enhanced LLMs, planners here take raw images as input, reducing information loss and improving efficiency.
+
+---
 
 - **Image-of-Thought**  
   Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models  
@@ -311,6 +320,9 @@
 ---
 
 ## [Stage V: Unified Agentic Vision Language Models](docs/stage5_agentic_vlm.md)
+
+These models incorporate higher-order cognitive mechanisms such as planning, memory, operation, imagination, textual feedback and visual evidence.
+
 <p align="center">
   <img src="pic/agentic_vlm.png" alt="Stage V Diagram"/>
 </p>
