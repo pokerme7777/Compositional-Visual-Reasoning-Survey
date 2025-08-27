@@ -33,6 +33,11 @@
 </p>
 
 
+## 📬 Contribute to This List
+
+If you have related papers that should be included in this survey, feel free to [open an issue](https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey/issues). Contributions are welcome!
+
+
 ## 📘 Stages Overview
 
 ### Roadmap of Compositional Visual Reasoning Models
@@ -383,10 +388,4 @@ These models incorporate higher-order cognitive mechanisms such as planning, mem
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=pokerme7777/Compositional-Visual-Reasoning-Survey&type=Timeline" />
   </picture>
 </a>
-
----
-
-### 📬 Contribute to This List
-
-If you have related papers that should be included in this survey, feel free to [open an issue](https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey/issues). Contributions are welcome!
 
