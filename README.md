@@ -5,7 +5,7 @@
 
 <p align="center">
   📄 <strong>This is our latest survey paper on compositional visual reasoning!</strong><br/>
-  📚 <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank"><strong>View the survey paper</strong></a>
+  📚 <a href="https://arxiv.org/pdf/2508.17298" target="_blank"><strong>View the survey paper</strong></a>
 </p>
 
 <div align="center">
