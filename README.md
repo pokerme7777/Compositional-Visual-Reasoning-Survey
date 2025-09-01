@@ -379,6 +379,10 @@ These models incorporate higher-order cognitive mechanisms such as planning, mem
   Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning  
   [NeurIPS 2024](https://arxiv.org/pdf/2403.16999) / [Code](https://github.com/deepcs233/Visual-CoT/)
 
+- **ViGoRL**  
+  Grounded Reinforcement Learning for Visual Reasoning  
+  [arXiv 2025](https://arxiv.org/abs/2505.23678) / [Code](https://github.com/Gabesarch/grounded-rl/)
+
 ## 🌟Star History
 
 <a href="https://star-history.com/#pokerme7777/Compositional-Visual-Reasoning-Survey&Timeline">

@@ -111,3 +111,10 @@ These models incorporate higher-order cognitive mechanisms such as planning, mem
 <p align="left">
   <img src="https://github.com/deepcs233/Visual-CoT/raw/main/assets/dataset.png" alt="VisCoT Demo" width="500"/>
 </p>
+
+---
+
+### 📄 [ViGoRL](https://arxiv.org/abs/2505.23678)
+- **Title:** *Grounded Reinforcement Learning for Visual Reasoning*  
+- **Venue:** *arXiv 2025*  
+- **GitHub:** [Link](https://github.com/Gabesarch/grounded-rl/) 
