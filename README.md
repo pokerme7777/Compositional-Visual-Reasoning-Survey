@@ -393,3 +393,17 @@ These models incorporate higher-order cognitive mechanisms such as planning, mem
   </picture>
 </a>
 
+## 📖Citation
+If you find this work useful for your research, please consider citing it.
+```bibtex
+@misc{ke2025explainanswersurveycompositional,
+      title={Explain Before You Answer: A Survey on Compositional Visual Reasoning}, 
+      author={Fucai Ke and Joy Hsu and Zhixi Cai and Zixian Ma and Xin Zheng and Xindi Wu and Sukai Huang and Weiqing Wang and Pari Delir Haghighi and Gholamreza Haffari and Ranjay Krishna and Jiajun Wu and Hamid Rezatofighi},
+      year={2025},
+      eprint={2508.17298},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.17298}, 
+}
+```
+
