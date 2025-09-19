@@ -145,9 +145,20 @@ These models carry out multi-step reasoning in a single forward pass without ext
 
 ### 📄 [LATTE](https://arxiv.org/pdf/2412.05479)
 - **Title:** *LATTE: Learning to Think with Vision Specialists*  
-- **Venue:** *Arxiv 2024*  
+- **Venue:** *EMNLP 2025*  
 - **GitHub:** [Link](https://github.com/SalesforceAIResearch/LATTE/) 
 
 <p align="left">
   <img src="https://github.com/SalesforceAIResearch/LATTE/raw/main/image/teaser.png" alt="LATTE Demo" width="500"/>
+</p>
+
+---
+
+### 📄 [VisRL](https://arxiv.org/pdf/2412.05479)
+- **Title:** *VisRL: Intention-Driven Visual Perception via Reinforced Reasoning*  
+- **Venue:** *ICCV 2025*  
+- **GitHub:** [Link](https://github.com/zhangquanchen/VisRL) 
+
+<p align="left">
+  <img src="https://github.com/zhangquanchen/VisRL/raw/main/assets/pipeline.png" alt="VisRL Demo" width="500"/>
 </p>

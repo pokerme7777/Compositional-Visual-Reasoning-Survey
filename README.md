@@ -325,6 +325,9 @@ These models carry out multi-step reasoning in a single forward pass without ext
   LATTE: Learning to Think with Vision Specialists  
   [EMNLP 2025](https://arxiv.org/pdf/2412.05479) / [Code](https://github.com/SalesforceAIResearch/LATTE/)
 
+- **VisRL**  
+  VisRL: Intention-Driven Visual Perception via Reinforced Reasoning 
+  [ICCV 2025](https://arxiv.org/abs/2503.07523) / [Code](https://github.com/zhangquanchen/VisRL/)
 ---
 
 ## [Stage V: Unified Agentic Vision Language Models](docs/stage5_agentic_vlm.md)
@@ -382,6 +385,10 @@ These models incorporate higher-order cognitive mechanisms such as planning, mem
 - **ViGoRL**  
   Grounded Reinforcement Learning for Visual Reasoning  
   [arXiv 2025](https://arxiv.org/abs/2505.23678) / [Code](https://github.com/Gabesarch/grounded-rl/)
+
+- **ViGoRL**  
+  SIFThinker: Spatially-Aware Image Focus for Visual Reasoning 
+  [arXiv 2025](https://arxiv.org/abs/2508.06259) / [Code](https://github.com/zhangquanchen/SIFThinker/)
 
 ## 🌟Star History
 

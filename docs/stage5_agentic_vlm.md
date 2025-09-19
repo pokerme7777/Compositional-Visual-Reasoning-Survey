@@ -118,3 +118,14 @@ These models incorporate higher-order cognitive mechanisms such as planning, mem
 - **Title:** *Grounded Reinforcement Learning for Visual Reasoning*  
 - **Venue:** *arXiv 2025*  
 - **GitHub:** [Link](https://github.com/Gabesarch/grounded-rl/) 
+
+---
+
+### 📄 [SIFThinker](https://arxiv.org/pdf/2412.05479)
+- **Title:** *SIFThinker: Intention-Driven Visual Perception via Reinforced Reasoning*  
+- **Venue:** *arXiv 2025*  
+- **GitHub:** [Link](https://github.com/zhangquanchen/SIFThinker) 
+
+<p align="left">
+  <img src="https://github.com/zhangquanchen/SIFThinker/raw/main/assets/pipeline.png" alt="SIFThinker Demo" width="500"/>
+</p>
