@@ -390,15 +390,7 @@ These models incorporate higher-order cognitive mechanisms such as planning, mem
   SIFThinker: Spatially-Aware Image Focus for Visual Reasoning 
   [arXiv 2025](https://arxiv.org/abs/2508.06259) / [Code](https://github.com/zhangquanchen/SIFThinker/)
 
-## 🌟Star History
 
-<a href="https://star-history.com/#pokerme7777/Compositional-Visual-Reasoning-Survey&Timeline">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=pokerme7777/Compositional-Visual-Reasoning-Survey&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=pokerme7777/Compositional-Visual-Reasoning-Survey&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=pokerme7777/Compositional-Visual-Reasoning-Survey&type=Timeline" />
-  </picture>
-</a>
 
 ## 📖Citation
 If you find this work useful for your research, please consider citing it.
