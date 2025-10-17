@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/github/issues/pokerme7777/Compositional-Visual-Reasoning-Survey?style=square">
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/citation-0-97ca00">
+        <img src="https://raw.githubusercontent.com/ControlNet/citation-badge/refs/heads/dist/-rpiDIoAAAAJ_aqlVkmm33-oC.svg">
     </a>
 </div>
 
